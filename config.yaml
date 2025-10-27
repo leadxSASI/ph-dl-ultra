@@ -1,1 +1,8 @@
 
+output_dir: "~/storage/downloads/Pornhub"
+quality: "best[height<=1080]"
+format: "mp4"
+embed_subs: true
+embed_thumbnail: true
+concurrent_fragments: 16
+browser: "firefox"
